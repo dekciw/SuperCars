@@ -1,4 +1,6 @@
-<h1 align="center">SuperCars</h1>
+<p align="center">
+  <img src="screenshots/logo.png" width="460" alt="Super Cars">
+</p>
 
 <p align="center">
   <b>Лендинг проката спорткаров LUXURY.CAR на Angular: фильтр по маркам, данные с сервера и форма бронирования.</b>
